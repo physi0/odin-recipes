@@ -1,2 +1,2 @@
 # odin-recipes
-This is an odin project to buiild a basic recipe website to practice HTML knowledge learnt on the Foundations course. The website will consist of a main index page which will have links to a few recipes. It will look very basic to start with, but will be revisited in future to improve it with CSS.
+This is an odin project to build a basic recipe website to practice HTML knowledge learnt on the Foundations course. The website will consist of a main index page which will have links to a few recipes. It will look very basic to start with, but will be revisited in future to improve it with CSS.
